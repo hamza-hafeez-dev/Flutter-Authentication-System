@@ -12,7 +12,7 @@ and multiple screens connected through navigation.
 ## 📱 Project Preview
 
 <p align="center">
-  <img src="screenshots/authentication-preview.png" width="100%" />
+  <img src="Preview/flutter_auth_ui_preview.png" width="100%" />
 </p>
 
 ## ✨ What's Inside?
